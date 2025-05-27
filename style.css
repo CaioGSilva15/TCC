@@ -14,10 +14,13 @@ body,h1{
 
 
 .container{
-    background-color: black;
-    color: white; 
+    background-image:linear-gradient(black,rgb(17, 4, 76),rgba(0, 0, 0, 0.844));
     padding: 20px;
+    text-align: left;
+    font-weight: bold;
 }
+
+
 
 p{
     color: white;
