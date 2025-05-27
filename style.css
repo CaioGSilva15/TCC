@@ -9,7 +9,7 @@ body,h1{
     background-color: black;
     color:black;
     text-align: center;
-    
+
 }
 
 
@@ -33,7 +33,7 @@ h1{
 }
 
 section.videos{
-    max-width: 600px;
+    max-width: 800px;
     text-align:left;
     color: white;
     background-color: black;
